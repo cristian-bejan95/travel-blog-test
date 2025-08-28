@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dark-mode {
+  header,
+  main,
+  footer {
+    @apply text-white bg-gray-900;
+  }
+}
+
+.light-mode {
+  header,
+  main,
+  footer {
+    @apply text-black bg-gray-100;
+  }
+}
+
+.slider {
+  @apply h-[500px] w-full rounded-md overflow-hidden relative select-none;
+
+  img {
+    @apply absolute top-0 left-0 object-cover w-full h-full;
+  }
+
+  .arrow-btn {
+    @apply absolute z-10 p-1 text-3xl text-black border border-black rounded-full cursor-pointer top-1/2 translate-y--1/2;
+  }
+
+  .arrow-left {
+    @apply left-5;
+  }
+
+  .arrow-right {
+    @apply right-5;
+  }
+}
