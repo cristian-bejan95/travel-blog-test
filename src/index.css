@@ -8,6 +8,10 @@
   footer {
     @apply text-white bg-gray-900;
   }
+
+  .login-btn {
+    @apply p-2 border border-white rounded-md;
+  }
 }
 
 .light-mode {
@@ -15,6 +19,10 @@
   main,
   footer {
     @apply text-black bg-gray-100;
+  }
+
+  .login-btn {
+    @apply p-2 border border-black rounded-md;
   }
 }
 

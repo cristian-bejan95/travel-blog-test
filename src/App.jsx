@@ -8,9 +8,11 @@ function App() {
 
   return (
     <div className={darkMode ? "dark-mode" : "light-mode"}>
-      <Header darkMode={darkMode} setDarkMode={setDarkMode} />
-      <Main />
-      <Footer />
+      <div onClick={() => setShowLogin(false)}>
+        <Header darkMode={darkMode} setDarkMode={setDarkMode} />
+        <Main />
+        <Footer />
+      </div>
     </div>
   );
 }
