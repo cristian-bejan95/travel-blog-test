@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "address": "New York City, USA",
+    "images": [
+      "https://media.cntraveller.com/photos/64f4fc5f663208f83a21af16/master/pass/New%20York%20City_GettyImages-1347979016.jpg",
+      "https://www.travelguide.net/media/new-york.jpeg",
+      "https://cdn.britannica.com/48/179448-138-40EABF32/Overview-New-York-City.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "address": "Chisinau, Moldova",
+    "category": "Cities",
+    "images": [
+      "https://media.cntraveller.com/photos/64f4fc5f663208f83a21af16/master/pass/New%20York%20City_GettyImages-1347979016.jpg",
+      "https://www.travelguide.net/media/new-york.jpeg",
+      "https://cdn.britannica.com/48/179448-138-40EABF32/Overview-New-York-City.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "address": "Monte Carlo",
+    "category": "Distractions",
+    "images": [
+      "https://media.cntraveller.com/photos/64f4fc5f663208f83a21af16/master/pass/New%20York%20City_GettyImages-1347979016.jpg",
+      "https://www.travelguide.net/media/new-york.jpeg",
+      "https://cdn.britannica.com/48/179448-138-40EABF32/Overview-New-York-City.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "address": "Monaco",
+    "category": "Distractions",
+    "images": [
+      "https://media.cntraveller.com/photos/64f4fc5f663208f83a21af16/master/pass/New%20York%20City_GettyImages-1347979016.jpg",
+      "https://www.travelguide.net/media/new-york.jpeg",
+      "https://cdn.britannica.com/48/179448-138-40EABF32/Overview-New-York-City.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "address": "Rome, Italy",
+    "category": "History",
+    "images": [
+      "https://media.cntraveller.com/photos/64f4fc5f663208f83a21af16/master/pass/New%20York%20City_GettyImages-1347979016.jpg",
+      "https://www.travelguide.net/media/new-york.jpeg",
+      "https://cdn.britannica.com/48/179448-138-40EABF32/Overview-New-York-City.jpg"
+    ]
+  }
+]
